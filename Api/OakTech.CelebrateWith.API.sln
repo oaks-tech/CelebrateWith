@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OakTech.CelebrateWith.API", "OakTech.CelebrateWith.API\OakTech.CelebrateWith.API.csproj", "{3CFE10AA-CD42-4023-93C7-F4FE90DB6D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OakTech.CelebrateWith.Data", "OakTech.CelebrateWith.Data\OakTech.CelebrateWith.Data.csproj", "{178227BA-9C23-4C28-B4AE-4E927E2EB743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFE10AA-CD42-4023-93C7-F4FE90DB6D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFE10AA-CD42-4023-93C7-F4FE90DB6D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFE10AA-CD42-4023-93C7-F4FE90DB6D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFE10AA-CD42-4023-93C7-F4FE90DB6D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178227BA-9C23-4C28-B4AE-4E927E2EB743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178227BA-9C23-4C28-B4AE-4E927E2EB743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178227BA-9C23-4C28-B4AE-4E927E2EB743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178227BA-9C23-4C28-B4AE-4E927E2EB743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C4FCBA7-0526-43D8-8F0B-DEC40F302722}
+	EndGlobalSection
+EndGlobal
